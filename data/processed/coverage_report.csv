@@ -1,0 +1,5 @@
+model_name,matched_risks,coverage_status
+Crypto Transaction Risk Model,None,Not Covered
+Wire Transfer Monitoring,None,Not Covered
+Card Fraud Detection Model,None,Not Covered
+Structuring/Smurfing Detection,None,Not Covered

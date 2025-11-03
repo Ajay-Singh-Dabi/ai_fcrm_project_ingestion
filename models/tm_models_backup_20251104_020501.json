@@ -1,0 +1,218 @@
+[
+  {
+    "model_id": "TM001",
+    "model_name": "Transaction Monitoring (Retail Banking)",
+    "description": "Detects suspicious transactions based on behavioral profiling, thresholds, and peer-group analysis for retail customers.",
+    "owner": "AML Transaction Monitoring Team",
+    "data_sources": [
+      "Core Banking System",
+      "Card Transactions",
+      "Swift Payments"
+    ],
+    "covered_risks": [
+      "structuring/smurfing",
+      "suspicious cash deposits",
+      "high-value international wire transfers",
+      "rapid movement of funds"
+    ],
+    "partially_covered_risks": [
+      "third-party transactions",
+      "transactions through unregulated remittance channels"
+    ],
+    "not_covered_risks": [
+      "trade-based money laundering",
+      "crypto asset laundering",
+      "Misuse of shell companies",
+      "Terrorist financing",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Weak customer due diligence"
+    ]
+  },
+  {
+    "model_id": "TM002",
+    "model_name": "Trade-Based Money Laundering (TBML) Model",
+    "description": "Identifies abnormal trade invoice patterns, mismatched shipment values, and repeated counterparties.",
+    "owner": "Trade Surveillance Team",
+    "data_sources": [
+      "Trade Finance System",
+      "Customs Data",
+      "SWIFT MT700/MT799"
+    ],
+    "covered_risks": [
+      "over/under-invoicing",
+      "phantom shipments",
+      "multiple invoicing",
+      "unusual trade routes"
+    ],
+    "partially_covered_risks": [
+      "dual-use goods",
+      "front companies involved in trade"
+    ],
+    "not_covered_risks": [
+      "terrorist financing through trade",
+      "trade-based crypto laundering",
+      "Trade-based money laundering",
+      "money laundering",
+      "Exploitation of virtual assets for money laundering",
+      "Misuse of shell companies",
+      "Proliferation financing",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Weak customer due diligence"
+    ]
+  },
+  {
+    "model_id": "KYC001",
+    "model_name": "KYC Risk Scoring Engine",
+    "description": "Scores customers based on demographic, occupational, and geographic risk using configurable risk matrices.",
+    "owner": "Customer Risk Rating Team",
+    "data_sources": [
+      "Customer Onboarding",
+      "CDD Questionnaires",
+      "Watchlist Systems"
+    ],
+    "covered_risks": [
+      "politically exposed persons (PEPs)",
+      "customers from high-risk jurisdictions",
+      "shell companies"
+    ],
+    "partially_covered_risks": [
+      "beneficial ownership with layered structures",
+      "linked accounts or related parties"
+    ],
+    "not_covered_risks": [
+      "transaction-level laundering indicators",
+      "Weak customer due diligence",
+      "Terrorist financing",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations"
+    ]
+  },
+  {
+    "model_id": "SAN001",
+    "model_name": "Sanctions Screening System",
+    "description": "Screens customer and transaction data against OFAC, EU, UN, and local sanctions lists.",
+    "owner": "Sanctions Compliance Team",
+    "data_sources": [
+      "Payments Hub",
+      "Customer Master",
+      "SWIFT Interface"
+    ],
+    "covered_risks": [
+      "transactions with sanctioned entities",
+      "transactions involving embargoed countries"
+    ],
+    "partially_covered_risks": [
+      "beneficial ownership linkage to sanctioned parties"
+    ],
+    "not_covered_risks": [
+      "non-financial sanctions breaches",
+      "money laundering",
+      "Misuse of shell companies",
+      "Trade-based money laundering",
+      "Terrorist financing",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Weak customer due diligence"
+    ]
+  },
+  {
+    "model_id": "CRY001",
+    "model_name": "Crypto Asset Risk Detection",
+    "description": "Monitors transactions and wallet addresses related to virtual asset service providers and potential mixers/tumblers.",
+    "owner": "Innovation and Virtual Assets Surveillance Team",
+    "data_sources": [
+      "Blockchain Analytics",
+      "Exchange APIs",
+      "VASP KYC Data"
+    ],
+    "covered_risks": [
+      "use of privacy coins",
+      "transactions with mixers/tumblers",
+      "unlicensed crypto exchanges"
+    ],
+    "partially_covered_risks": [
+      "terrorist financing via crypto",
+      "cross-chain obfuscation techniques"
+    ],
+    "not_covered_risks": [
+      "NFT-based laundering",
+      "DeFi lending risks",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "money laundering",
+      "Misuse of shell companies",
+      "Trade-based money laundering",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Weak customer due diligence"
+    ]
+  },
+  {
+    "model_id": "NPO001",
+    "model_name": "Non-Profit Organisation (NPO) Risk Model",
+    "description": "Detects potential misuse of non-profit entities for terrorism financing or fund diversion.",
+    "owner": "Financial Intelligence Unit",
+    "data_sources": [
+      "Charity Registries",
+      "Banking Transactions",
+      "Donor Information"
+    ],
+    "covered_risks": [
+      "terrorism financing through charities",
+      "layering via NPO accounts"
+    ],
+    "partially_covered_risks": [
+      "foreign donor inflows without matching projects"
+    ],
+    "not_covered_risks": [
+      "cross-border fund misuse via NGOs",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Abuse of crowdfunding platforms",
+      "money laundering",
+      "Misuse of shell companies",
+      "Trade-based money laundering",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "Weak customer due diligence"
+    ]
+  },
+  {
+    "model_id": "BEN001",
+    "model_name": "Beneficial Ownership Transparency Model",
+    "description": "Identifies complex ownership structures and cross-linked entities using graph analysis.",
+    "owner": "Entity Risk Intelligence Team",
+    "data_sources": [
+      "Corporate Registries",
+      "KYC System",
+      "External Databases"
+    ],
+    "covered_risks": [
+      "multi-layered ownership structures",
+      "opaque beneficial owners"
+    ],
+    "partially_covered_risks": [
+      "foreign intermediaries in ownership chains"
+    ],
+    "not_covered_risks": [
+      "use of trusts registered in secrecy jurisdictions",
+      "money laundering",
+      "Misuse of shell companies",
+      "Trade-based money laundering",
+      "Terrorist financing",
+      "Proliferation financing",
+      "Exploitation of virtual assets",
+      "Abuse of crowdfunding",
+      "Abuse of non-profit organisations",
+      "Weak customer due diligence"
+    ]
+  }
+]
