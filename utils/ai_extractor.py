@@ -116,12 +116,17 @@ def extract_red_flags(text, use_gpt=True):
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.3,
             )
+            # print(response)  # Debug log
 
             content = response.choices[0].message.content.strip()
+            
+            print(content)
+            print(type(content))
 
             # Some models return extra newlines or markdown
             content = content.replace("```json", "").replace("```", "").strip()
             structured = json.loads(content)
+            print(structured)  # Debug log
 
         except Exception as e:
             structured["summary"] = f"GPT fallback due to error: {e}"

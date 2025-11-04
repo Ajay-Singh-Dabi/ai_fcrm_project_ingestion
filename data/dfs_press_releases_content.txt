@@ -1,0 +1,254 @@
+==== 41. Governor Hochul Calls on Insurers to Cover Life-Saving Vaccines in New York State ====
+📅 Date: 2025-09-10
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20250910
+🧾 Subtitle: Amidst Uncertainty at the CDC, Governor Takes Action To Protect Access to Life-Saving VaccinesDepartment of Financial Services Guidance Strongly Encourages Commercial Insurers To Continue Covering 100 Percent of the Costs of Recommended Vaccines
+
+In light of continued attacks on science and health care from the federal government, Governor Kathy Hochul today announced new action to protect vaccine access across New York State. The New York State Department of Financial Services (DFS) is issuing guidance to insurers encouraging them to continue covering all vaccines recommended by The Advisory Committee on Immunization Practices (ACIP) as of today’s date. ACIP has long been responsible for issuing recommendations on vaccine use to control disease in the United States, and insurers typically provide coverage of vaccines based on ACIP recommendations. Today’s publication also reminds insurers of previously issued guidance requiring insurers to cover COVID vaccines for children. In addition, the guidance urges insurers to encourage employers and other entities who provide self-funded health care coverage to continue covering the cost of vaccines. Today’s action builds upon Governor Hochul’s Executive Order allowing pharmacists to administer COVID vaccines to ensure New Yorkers can receive the updated 2025-26 COVID shot.
+“New Yorkers deserve to have the resources available to get vaccinated if they choose to, and Republicans in Washington should not be able to take that from them,”
+Governor Hochul said
+. “Vaccines not only prevent people from getting sick — they can save lives and prevent the spread of infectious diseases, especially as we approach our colder seasons and our children are back in schools.”
+New York State Superintendent of Financial Services Adrienne A. Harris said
+, “Public health experts have been clear that vaccines are an essential tool in combating the spread of infectious diseases and lowering the cost of health care. The cost of a vaccine should not be a barrier to this critical care. DFS strongly encourages insurers to continue to provide comprehensive vaccine coverage for all New Yorkers.”
+New York State Health Commissioner Dr. James McDonald said
+, “In 2024, we lost 2,775 New Yorkers related to COVID, that is enough to fill 7 jumbo jets. Vaccines are the best protection from serious illness and hospitalization. I want to thank Governor Hochul for her leadership in taking swift action to ensure that vaccines remain accessible and affordable for families across our state. By safeguarding coverage and availability, we can prevent illness, save lives and keep our communities healthy as we head into the colder months.”
+New York is also working in coordination with — and helping to lead — a regional multi-state public health collaboration among Northeast states, which brings together public health leaders across the region to develop evidence-based recommendations and approaches on vaccination, disease surveillance, and emergency preparedness. The collaborative also supports state public health laboratories in sharing resources and expertise to strengthen regional readiness.
+Read
+DFS’s Guidance Letter
+to New York’s insurance industry.
+###
+
+================================================================================
+
+==== 42. DFS Superintendent Adrienne A. Harris Extends Blockchain Analytics Guidance to New York State Banking Organizations ====
+📅 Date: 2025-09-17
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20250917
+
+New York State Department of Financial Services Superintendent Adrienne A. Harris today issued new guidance on the use of blockchain analytics tools for banking institutions contemplating or already conducting virtual currency-related activities. As banking institutions experience increasing interest in and exposure to virtual currency activities, blockchain analytics tools have the ability to enhance compliance programs and prevent illegal activities. Today’s announcement builds upon previously released
+industry guidance
+to New York State-regulated virtual currency entities.
+“As traditional banking institutions expand into virtual currency activities, their compliance functions must adapt, onboarding new tools and technologies to mitigate new and different risks,”
+said Superintendent Harris
+. “As a leader in the regulation of virtual currency, DFS will continue to set clear and transparent expectations for institutions, to protect consumers and safeguard market integrity, while also ensuring New York-regulated banking organizations can remain resilient and competitive.”
+Today’s guidance seeks to make clear compliance expectations and encourage any entity in New York State seeking to commence or currently engaged in virtual currency-related activity to leverage new technology-driven control measures.
+Given an increase in virtual currency adoption, New York State-regulated banking organizations are expected to consider incorporating blockchain analytics as an additional risk-management tool.  Applicable use cases may include:
+Assessing risk exposure through customer wallet screening and funds verification involving virtual asset service providers (“VASPs”);
+conducting holistic monitoring for illicit activity exposure and risk management of third parties;
+augmenting due diligence controls to evaluate expected versus actual activity, such as dollar thresholds, of customers engaging in virtual currency activity; and
+weighing the risks associated with a virtual currency product or service to be offered.
+A copy of the guidance can be found on the
+Department’s website
+.
+###
+
+================================================================================
+
+==== 43. Governor Hochul Affirms Commitment to Advancing Affordability and Access to Financial Services in Underserved Communities ====
+📅 Date: 2025-09-26
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20250926
+🧾 Subtitle: Department of Financial Services Guidance Will Encourage Continued Investments into Community Development and Mission-Driven InstitutionsBuilds Upon State’s Record of Expanding Access to Capital for Underserved New Yorkers Under Governor’s Leadership
+
+Governor Kathy Hochul today announced
+new guidance
+from the New York State Department of Financial Services (DFS) allowing state-chartered banks to receive Community Reinvestment Act (CRA) credit for lending to or investing in Community Development Financial Institutions (CDFIs) — even if their 2024 federal certification has lapsed. This action will help safeguard critical investments in CDFIs which can be used to expand access to affordable housing, small business financing, and other vital services within minority communities.
+“Every New Yorker — no matter where they live — deserves access to affordable and reliable financial services and the resources they need to build a brighter future,”
+Governor Hochul said
+. “While Republicans in Washington work to undermine Community Development Financial Institutions and strip away critical investments in working families, New York is charting its own path. The Department of Financial Services’ new guidance strengthens our support for CDFIs, empowering them to fuel small business growth, open doors to homeownership, and expand opportunity in neighborhoods that have too often been overlooked. By building on our strong record of investments and providing certainty in uncertain times, we are advancing affordability and prosperity for every New Yorker.”
+New York State Department of Financial Services Superintendent Adrienne A. Harris said
+, “CDFIs are on the frontline of helping underrepresented New Yorkers access capital and credit, driving economic growth, boosting employment, and building wealth. The Department is proud to continue to support CDFIs as part of its mission to build a more equitable financial system for all New Yorkers.”
+Today’s action follows a recent convening of CDFIs, Minority Depository Institutions (MDIs), and senior representatives from New York’s largest banks to discuss measures to strengthen these institutions and ensure continued access to capital for underserved communities. This guidance makes clear that CDFIs that experience federal CDFI Fund certification lapses unrelated to their programs or mission have an avenue for continued funding, helping to ensure that federal uncertainty does not destabilize community-based institutions. By providing certainty for banks and CDFIs, New York is ensuring that mission-driven lenders can continue to attract and deliver critical services in neighborhoods often overlooked by traditional financial institutions.
+In addition to today’s DFS action, Empire State Development has built a strong track record of supporting CDFIs across New York, awarding nearly $18 million in grants to CDFIs over the last five years. ESD also leveraged $500 million in federal funding allocated through the State Small Business Credit Initiative to establish ten new capital access and equity programs for small businesses, including several that distribute capital in partnership with CDFIs. Already, ESD has allocated $35.5 million to 16 CDFIs through the Small Business Revolving Loan Fund 2.0 and another $18.2 million to 7 CDFI partners through the Contractor Financing Program. Collectively, these efforts have helped thousands of New Yorkers — particularly unbanked and underbanked individuals and small businesses and microbusinesses — open bank accounts, receive technical assistance, and access affordable credit to build wealth and stability in their communities.
+New York is home to more than 80 certified CDFIs and 46 MDIs, which collectively provide billions of dollars in mortgages, small business loans, and community development projects that drive economic growth and financial inclusion.
+Empire State Development President, CEO and Commissioner Hope Knight said
+, “Community Development Financial Institutions are vital partners in ensuring that every New Yorker, no matter their zip code, has access to affordable credit and financial services. Under Governor Hochul’s leadership, Empire State Development has invested tens of millions of dollars to strengthen CDFIs and empower them to deliver capital, training, and opportunity in communities too often overlooked by traditional banking. Today’s action reinforces that commitment and ensures these mission-driven lenders can continue to help small businesses grow, families build wealth, and neighborhoods thrive.”
+Senator Charles Schumer said
+, “From Buffalo to Albany, the CDFI Fund is used to build new homes, reduce housing costs, improve healthcare, start new businesses, and rebuild Main Streets across New York. This new guidance will help expand access to financial services for all New Yorkers, from new families trying to buy their first home to entrepreneurs starting and expanding small businesses. With programs like this under attack by Trump’s budget cuts, it is more important than ever to protect existing investments and keep support flowing to New York’s Main Streets and the middle class. I am grateful for Governor Hochul’s partnership in ensuring financial services are available to all New Yorkers.”
+State Senator James Sanders Jr. said
+, “I applaud Governor Kathy Hochul for her initiative in supporting Community Development Financial Institutions (CDFIs). We need to ensure New York CDFIs are healthy and effective since they play a critical role in improving access to underserved communities.”
+Assemblymember Al Stirpe said
+, “CDFIs are critical gateways for underserved communities to grow, bridging the gap between economic barriers and opportunities that would otherwise be out of reach under traditional banks. For the 80 and rising CDFIs across New York State, every investment into a CDFI translates into an investment for stimulating small businesses, promoting homeownership, and encouraging all communities to thrive in the economic mainstream.”
+Assemblymember Clyde Vanel said
+, “I commend Governor Hochul and the Department of Financial Services for their work to ensure that vital investments continue to flow into our communities. Community Development Financial Institutions are essential for small businesses, first-time homebuyers, and families who lack access to traditional banking services. This guidance will provide local economies the stability and certainty they need to grow and it will expand opportunity for all New Yorkers.”
+Assemblymember Marianne Buttenschon said
+, “This action by DFS ensures that our mission-driven lenders can continue serving the families and small businesses that traditional banks too often overlook. In the Mohawk Valley, CDFIs are vital partners for first-time homebuyers, small contractors, and local entrepreneurs. Without this measure, our CDFIs would lose access to critical funding not due to any fault of their own, but to federal uncertainty. I appreciate the efforts of the agency as well as the Governor to provide stability and fairness, and to ensure the continuance of these important institutions.”
+This announcement builds on Governor Hochul’s ongoing commitment to affordability and equity, ensuring that New York continues to lead the way in supporting mission-driven financial institutions and the communities throughout New York who rely on them.
+###
+
+================================================================================
+
+==== 44. Governor Hochul Announces Superintendent Adrienne A. Harris to Depart the Department of Financial Services After Four Years of Service ====
+📅 Date: 2025-09-29
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202509291
+🧾 Subtitle: Governor Hochul has appointed Kaitlin Asrow as Acting Superintendent
+
+Governor Kathy Hochul today announced that after four years of service, Superintendent Harris has decided to leave the Department of Financial Services.
+The Governor is appointing Kaitlin Asrow to Acting Superintendent of the Department of Financial Services effective October 18, 2025.
+“I’d like to thank Superintendent Harris for her four years of service at DFS, working every day to make our financial system work for New Yorkers, while also rebuilding the Department into a regulator fit for the financial capital of the world,”
+said Governor Hochul.
+“Between her time at the Federal Reserve, Financial Health Network, and within DFS, Kaitlin is well suited to lead the Department into the future, expanding access to affordable financial services for all New Yorkers while ensuring our great state continues to be a center for responsible innovation.”
+Superintendent Harris said,
+“It has been a privilege and an honor to serve New Yorkers, delivering positive outcomes for consumers; cementing DFS as a global regulatory leader; and transforming the Department’s operations. I want to express my deep gratitude to Governor Hochul, and to the DFS team for the excellent work they do every day to create a more equitable, transparent, and resilient financial system.”
+Kaitlin Asrow said,
+“I am humbled by the opportunity to continue working in service of New Yorkers under Governor Hochul’s leadership. I am committed to ensuring that New York remains the global financial capital, a leader in consumer protection, and a hub for responsible financial innovation.”
+Kaitlin Asrow has worked at DFS for the past four years as Executive Deputy Superintendent of the Research & Innovation division. In that role, she oversaw the regulation of virtual currency companies, building one of the largest and most sophisticated
+virtual currency regulatory teams
+in the world. She is also responsible for the Department’s policy work around innovation and financial inclusion. Ms. Asrow has helped lead the operational transformation of the Department and is committed to continuing investment in technological infrastructure and key processes.
+Ms. Asrow came to the Department from the Federal Reserve System, where she served as a Senior Policy Advisor for both the Bank of San Francisco and the Board of Governors. She was responsible for leading supervision and policy initiatives related to data and artificial intelligence. During her tenure with the Federal Reserve, she served as a coordinator on innovation policy among the 12 district banks, as well as between the Federal Reserve, the OCC, and FDIC.
+Prior to the Federal Reserve, Ms. Asrow worked for the Center for Financial Services Innovation, now the Financial Health Network, which is the leading authority on consumer financial health. Ms. Asrow graduated from Stanford University with a Bachelor of Arts degree and subsequently earned her Master of Public Policy degree from the University of Chicago.
+Superintendent Harris was nominated by Governor Hochul to lead DFS in August 2021. As the longest-serving Superintendent, Harris led efforts to rebuild the Department to better protect New Yorkers, regulated entities, and the global financial system. Since August 2021, DFS has recovered more than $725 million in restitution for New Yorkers and done significant work to make the state’s financial system fairer and more equitable. Nationally, she became the first New York State representative to serve on the U.S.
+Financial Stability Oversight Council
+.
+Under Superintendent Harris’s leadership, DFS created seven new
+Banking Development Districts
+; allowed state-chartered banks to offer
+Bank On
+accounts to satisfy their basic banking obligations while broadening access to low-cost accounts; and changed the way
+check cashing fees
+are calculated to incorporate consumer needs, saving New Yorkers more than $22 million in check cashing fees.
+Superintendent Harris also set clear guardrails around the use of
+artificial intelligence
+in insurance underwriting and pricing;
+prohibited life insurers
+from offering inferior versions of the same product which was primarily impacting low-income households and consumers of color; and spearheaded critical health equity work
+requiring insurers to cover insulin
+without cost sharing and
+requiring them to collect
+voluntarily-disclosed demographic data from policyholders to address systemic health inequities.
+Over the past four years, the Superintendent has transformed the Virtual Currency Unit into a global leader in the regulation and supervision of digital assets. The Superintendent hired more than 60 subject matter experts who prevented FTX, Voyager, and Celsius from operating in New York; issued
+11 pieces
+of regulatory guidance; brought the first enforcement actions against cryptocurrency companies; and returned $2.1 billion to consumers around the world from
+Gemini
+.
+Since DFS was given the authority to regulate pharmacy benefit managers (“PBMs”) in 2022, Superintendent Harris has built a PBM team,
+adopted market conduct rules
+to govern PBMs, and begun examining these entities. The rules put in place by DFS protect New Yorkers’ access to prescription drugs, prohibit certain business practices that increase the cost of prescription drugs, and help ensure that small, independent pharmacies can compete with large pharmacies affiliated with PBMs.
+Superintendent Harris also has taken decisive actions on defining issues impacting the financial services sector,
+amending DFS’s nation-leading cybersecurity regulation
+; issuing guidance to the
+insurance
+,
+banking, and mortgage industries
+, setting expectations on managing the financial and operational risks of climate change; and rebuilding the Insurance Frauds Unit to combat financial fraud in New York State
+The Superintendent’s commitment to operational excellence has resulted in more than 1,200 hires and promotions since January 2022. For the first time since the agency was established, the Department was fully-funded and has now surpassed 1,400 employees. Over the last four years, the Superintendent has cultivated a culture of innovation, invested in new technological infrastructure, and updated key processes. A significant component of the agency’s technology overhaul is
+DFS Connect
+, a single portal which is transforming all facets of how the Department engages with entities and consumers, and keeping data organized, centralized, and up to date in real time.
+A list of select accomplishments during Superintendent Harris’s tenure can be found
+here
+.
+
+================================================================================
+
+==== 45. Superintendent Adrienne A. Harris Updates Guidance for Virtual Currency Customer Protections in the Event of Insolvency ====
+📅 Date: 2025-09-30
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20250930
+🧾 Subtitle: Reflecting the Growing Demand for Virtual Currency Custodial Services, Department Reiterates Expectations for Sound Custody and Disclosure Practices for Licensed Entities
+
+New York State Department of Financial Services (DFS) Superintendent Adrienne A. Harris today updated guidance on custodial structures and the importance of beneficial interest always remaining with customers in the event of insolvency. As the demand for virtual currency custody services continues to grow across both retail and institutional customer segments, today’s guidance provides greater specificity on the Department’s expectations regarding sub-custodians and reiterating sound custody and disclosure practices.
+“The Department’s nation-leading digital asset and consumer protection regulatory standards have set clear and transparent expectations to protect New Yorkers since 2015,”
+said Superintendent Adrienne A. Harris
+. “Guidance is a particularly important regulatory tool, allowing the Department to respond to new and evolving circumstances. As we see the use of more sub-custodial relationships in the digital asset space, this guidance provides additional clarity on how those relationships should be governed.”
+The updated guidance:
+makes clear the Department’s expectations regarding acceptable sub-custodians and provides detailed expectations for sub-custodial service agreements;
+provides sub-custodians with guardrails to structure their asset custody framework in a way that protects the interests of customers;
+clarifies the Department’s expectations regarding permissible uses of customer assets; and
+continues to emphasize sound custody and disclosure practices to protect customers in the event of an insolvency or similar proceeding.
+DFS has and continues to use all of its regulatory tools to keep pace with the industry, make data-driven policy decisions, and quickly respond to the virtual currency market changes.
+This 2025 guidance supersedes guidance that was previously issued in January 2023. A copy of the 2025 guidance can be found on the
+Department’s website
+.
+###
+
+================================================================================
+
+==== 46. What They Are Saying: Elected Officials, Advocates, and the Financial Services Industry Celebrate Superintendent Harris’s Accomplishments During Her Four Years of Service ====
+📅 Date: 2025-10-03
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20251003
+
+Following the
+announcement
+on Monday, September 29, that Superintendent Harris has decided to leave DFS, external stakeholders have reached out to congratulate the Superintendent and recognize the work of the Department in improving the lives of New Yorkers over the last four years.
+Congressman Gregory Meeks:
+“Superintendent Harris has led DFS with vision, integrity, and an unwavering commitment to protecting consumers while fostering innovation in the financial services sector. By championing Community Development Financial Institutions (CDFIs) and expanding minority banking access, she has opened doors for small businesses, families, and communities that have long been underserved. I thank her for her service and lasting contributions to New York.”
+Congressman Ritchie Torres:
+“Superintendent Harris has been a true partner in protecting consumers and strengthening New York’s financial system. Under her leadership, DFS pushed for innovation, expanded access to financial services, and worked to make our markets fair. I’m grateful for her service and proud of what we’ve been able to accomplish together for New Yorkers. I wish her nothing but the best in what comes next.”
+State Senator Liz Krueger, Chair of the New York State Senate Finance Committee
+: “It has been an honor working together with Superintendent Harris throughout her tenure at DFS. She has been a champion for the needs of New Yorkers, whether through safeguarding access to the full spectrum of reproductive care, standing up for older New Yorkers in the face of insurance company malfeasance, or, most recently, protecting New Yorkers' access to that COVID vaccine. I wish her the best of luck in her next role.”
+State Senator James Sanders Jr., Chair of the New York State Senate Banks Committee:
+“I want to heartily congratulate New York State Department of Financial Services Superintendent Adrienne Harris for serving honorably and professionally during her tenure as the chief regulator of the State that is a global leader in banking. Superintendent Harris’ leadership has addressed many emerging issues including cryptocurrency, cybersecurity, artificial intelligence, climate change, as well as the long-term issues of banking discrimination, a sound banking system, and many others. I wish Superintendent Harris well on her future endeavors. As Chair of the Senate Banks Committee, I look forward to working with the incoming Acting Superintendent Kaitlin Asrow.”
+State Senator Zellnor Myrie, Chair of the New York State Senate Codes Committee
+: “As Superintendent, Adrienne Harris has fought to ensure financial services work for all New Yorkers. In a moment when consumers are especially vulnerable to fraud and manipulation, Superintendent Harris and DFS have worked to build an equitable, fair and transparent financial system. I'm grateful for her service to our state and look forward to continuing the work of keeping more money in New Yorkers' pockets.”
+State Assembly Majority Leader Crystal Peoples-Stokes:
+“I want to thank Superintendent Harris for her steadfast commitment to the people of the State of New York during her tenure leading the Department of Financial Services. Superintendent Harris’ many notable accomplishments ensured New York remained the trusted financial capital of the world while always looking out for the consumers’ best interests. She will be missed, and I wish her all the best in her future endeavors.”
+State Assemblymember David Weprin, Chair of the New York State Assembly Insurance Committee:
+“I want to thank Superintendent Adrienne Harris for her partnership and her dedication to protecting consumers and strengthening New York’s insurance market. Her commitment to protecting policyholders and ensuring fair, transparent oversight has made a real difference for families and business across our state. Her collaborative leadership at DFS has been invaluable, and I wish her the very best in her future endeavors.”
+State Assemblymember John T. McDonald
+III, RPh, Chair of the New York State Assembly Governmental Operations Committee
+: “Superintendent Harris has been a true breath of fresh air during her four years as Superintendent of the Department of Financial Services (DFS).  We immediately connected on the issue of governing Pharmaceutical Benefit Managers (PBMs) and we have had a strong start in regulating this area which is important to consumers, providers, and payors.  That being said, I do not believe many people understand the full breadth and depth of the range of topics DFS covers and I have been with Adrienne in many different forums over the past four years and am amazed at the depth of her knowledge on even the most minor of issues.  This is a reflection of her commitment to the people of New York and the close working relationship with the team and staff she has worked hard to develop over her time as Superintendent. Her presences and expertise will be missed, but I am comforted by the fact that she leaves DFS in a much better place than she found it.  I wish her the best in her next chapter.”
+State Assemblymember Clyde Vanel, Chair of the New York State Assembly Banks Committee:
+“Protecting consumers and safeguarding the stability of our financial system are at the very heart of the Department of Financial Services’ mission, and under Superintendent Adrienne Harris’s leadership, those priorities were elevated to new heights. From day one, she demonstrated a bold vision for what responsible and forward-looking regulation should look like in an age of rapid technological and economic change. During her tenure, she drove significant progress in areas such as cryptocurrency and artificial intelligence, advanced cybersecurity protections, and championed efforts to secure restitution for victims harmed by financial institutions.
+I am confident that the strong foundation she built will continue to benefit both consumers and the financial services industry for years to come. I wish her nothing but success as she takes the next steps in her remarkable career, and I have no doubt Acting Superintendent Kaitlin Asrow will make a fantastic successor.”
+Assemblymember Alex Bores
+: "I am sad to see Superintendent Harris leave her role at DFS, where she has been invaluable to the protection of New York’s consumers. Leading from the front, when a constituent of mine was affected by a specific DFS stance, Superintendent Harris gave the issue her personal attention to resolve the matter and changed DFS policy to properly accommodate. I look forward to working with the new superintendent, who will be tasked with filling the shoes of one of the most capable public servants I have had the pleasure of working with."
+Elisabeth R. Benjamin, Vice President of Health Initiatives at the Community Service Society of New York, leader of the statewide #EndMedicalDebt campaign, and member of the DFS Consumer Protection Advisory Council
+: “Under Superintendent Adrienne Harris’ tremendous leadership, New York was able to achieve important strides for health care affordability. The Hochul Administration and Superintendent Harris led the way on abolishing co-payments for insulin and expunging medical debt from tens of thousands of credit reports.  These policies help tens of thousands of New York healthcare consumers maintain their economic security in these turbulent times.  We look forward to continuing to improve health insurance affordability under Acting Superintendent Kaitlin Asrow.”
+Mike Pierce, Executive Director of Protect Borrowers and member of the DFS Consumer Protection Advisory Council:
+“Superintendent Harris fought for New Yorkers as they've struggled to shoulder rising costs and navigate a shifting and risky financial services market. From housing and healthcare to cars and college, debt shapes how New York families participate in the modern economy. Superintendent Harris understands how debt and predatory financial companies squeeze New Yorkers and leaves behind a legacy as a champion for working families.”
+Kathryn Wylde, President & CEO, Partnership for New York City:
+“Adrienne has transformed the Department of Financial Services from an obscure bureaucracy into a smart, responsive regulator. She is a highly respected, national leader in addressing the complex issues associated with a rapidly changing financial industry.”
+Brandon Milhorn, President & CEO of the Conference of State Banking Supervisors:
+“Superintendent Harris has been a strong advocate for state authority and expertise, particularly in digital assets. Her leadership on the CSBS Board and FSOC strengthened the state system and advanced a more dynamic and resilient financial system.”
+Rose Marie Glazer, General Counsel of AIG
+and member of the DFS Insurance Advisory Board:
+“AIG would like to thank Superintendent Harris for her exemplary leadership and stewardship during her tenure, and we are looking forward to working with Acting Superintendent Asrow going forward.”
+Karen Ignani, Chair of Emblem Health and member of the DFS Insurance Advisory Board: “
+Superintendent Harris’ efforts have ensured that New York has set the regulatory bar on critical national issues, such as cybersecurity and the use of artificial intelligence.”
+Laura Evangelista, President/CEO of LICONY:
+“Throughout her tenure, Superintendent Harris prioritized dialogue and partnership with LICONY and New York’s life insurance industry. By maintaining a consistent and thoughtful exchange of ideas and concerns, she promoted a regulatory environment that supports both the industry and the millions of New Yorkers who rely on life insurance for financial security. We are grateful for her partnership and look forward to continuing this constructive relationship with Acting Superintendent Asrow.”
+A full list of DFS accomplishments during Superintendent Harris’s tenure are available
+here
+.
+###
+
+================================================================================
+
+==== 47. Superintendent Harris Secures More than $19 Million from Auto Insurance Companies over Data Breaches ====
+📅 Date: 2025-10-14
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20251014
+🧾 Subtitle: DFS’s Industry-Wide Investigation Revealed Cybersecurity Failures that Contributed to Exposure of New Yorkers’ Personal Data
+
+New York State Department of Financial Services (DFS) Superintendent Adrienne A. Harris today secured more than $19 million in penalties to New York State from eight auto insurance companies for violations of DFS’s cybersecurity regulation. Inadequate cybersecurity controls allowed hackers to steal New Yorker’s personal information, including driver’s license numbers and dates of birth, from online automobile insurance quoting applications. The Department’s investigations into these data breaches remain ongoing.
+“DFS’s first-in-the-nation cybersecurity framework has become a model for safeguarding the integrity of our financial system and the personal information of millions of New Yorkers,”
+said Superintendent Harris
+. “Today’s actions demonstrate the Department’s unwavering commitment to holding institutions accountable when they fail to meet these robust standards, and to ensuring that consumers remain protected from data breaches and other cyber risks.”
+As a result of today’s settlements, Farmers Insurance Exchange will pay $2.775 million; Hagerty Insurance Agency, LLC will pay $1.85 million; Hartford Fire Insurance Company will pay $3 million; Infinity Insurance Company will pay $2.25 million; Liberty Mutual Insurance Company  will pay $2.7 million; Metromile Insurance Company will pay $2.05 million; Midvale Indemnity Company will pay $2 million; and State Automobile Mutual Insurance Company will pay $2.5 million in civil monetary penalties to the State of New York. The Office of the New York State Attorney General and DFS conducted a coordinated investigation.
+The DFS investigation concluded that the auto insurance companies did not comply with DFS’s cybersecurity regulation, which requires them to implement policies, procedures, and controls designed to protect consumer data and the information systems of the financial institutions themselves. As a result, threat actors were able to access consumer nonpublic information (NPI) stored on and accessible through their information systems, including driver’s license numbers, via public-facing web applications and agent portals that the insurance companies used to provide automobile insurance quotes to prospective customers. DFS alerted all regulated entities of these attacks in two industry letters, dated
+February 16, 2021
+and
+March 30, 2021
+.
+In addition to the failures described above, Farmers and Infinity failed to timely report their respective cybersecurity events. This notice requirement is a critical safeguard that enables the Department to carry out its responsibility to protect consumers.
+As part of the settlements, each company has agreed to conduct remedial measures, including conducting a comprehensive review of the accessibility of consumer NPI stored on their information systems.
+Under Superintendent Harris, DFS has entered into consent orders with 27 entities for violations of its cybersecurity regulation resulting in over $144 million in fines. DFS’s
+cybersecurity regulation
+became effective in March 2017, with an updated amendment effective as of November 2023 designed to enhance cyber governance, mitigate risks, and strengthen protections for New York businesses and consumers against cyber threats. It has served as a model for other regulators, including the U.S. Federal Trade Commission, multiple states, the National Association of Insurance Commissioners, and the Conference of State Bank Supervisors Nonbank Model Data Security Law.
+Read the
+Consent Orders here.
+
+================================================================================
+
+==== 48. DFS Acting Superintendent Kaitlin Asrow Issues New Cybersecurity Guidance to Address Risks Associated with the Use of Third-Party Service Providers ====
+📅 Date: 2025-10-21
+🔗 URL: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20251021
+🧾 Subtitle: During Cybersecurity Awareness Month, Guidance Reminds Regulated Entities of Compliance Obligations to Enhance Protections for New Yorkers
+
+New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today issued new cybersecurity guidance addressing the risks associated with entities becoming increasingly reliant on third-party service providers (TPSPs). The guidance builds on the Department’s ongoing work to protect New Yorkers and DFS-regulated entities from cybersecurity risks through its nation-leading cybersecurity regulation.
+“While third-party service providers have driven innovation and enabled significant efficiencies in our financial system, regulated entities are still ultimately accountable for protecting consumers and managing risk,”
+said Acting Superintendent Kaitlin Asrow
+. “To ensure the safe and secure operation of financial services and the protection of nonpublic information, entities must establish and maintain appropriate internal risk management controls when using third-party service providers.”
+This guidance does not impose new requirements or obligations on DFS-regulated entities. Rather, the guidance is intended to clarify regulatory requirements under DFS’s cybersecurity regulation and share best practices that entities should consider implementing.
+A copy of the guidance can be found on the
+Department's website
+. Additional cybersecurity resources can be found on the Department’s
+Cybersecurity Resource Center.
+
+================================================================================
+
